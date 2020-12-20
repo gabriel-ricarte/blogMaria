@@ -1,0 +1,1 @@
+categoria de produtos : {{$slug}}
